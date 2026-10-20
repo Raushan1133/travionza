@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gps",
+    "name": "GPS navigation",
+    "description": "Turn-by-turn navigation with live traffic.",
+    "price": 9.99,
+    "unit": "day",
+    "maxQty": 1,
+    "icon": "navigation",
+    "popular": false
+  },
+  {
+    "id": "child-seat",
+    "name": "Child safety seat",
+    "description": "Suitable for children 9–36 kg. Installed before you arrive.",
+    "price": 8.99,
+    "unit": "day",
+    "maxQty": 3,
+    "icon": "baby",
+    "popular": true
+  },
+  {
+    "id": "additional-driver",
+    "name": "Additional driver",
+    "description": "Share the driving with another licensed driver.",
+    "price": 11.99,
+    "unit": "day",
+    "maxQty": 3,
+    "icon": "user-plus",
+    "popular": true
+  },
+  {
+    "id": "toll-pass",
+    "name": "Toll pass",
+    "description": "Skip the cash lanes. You only pay for the tolls you use.",
+    "price": 5.99,
+    "unit": "day",
+    "maxQty": 1,
+    "icon": "ticket",
+    "popular": false
+  },
+  {
+    "id": "prepaid-fuel",
+    "name": "Prepaid fuel",
+    "description": "Return the car at any fuel level, no refuelling stop.",
+    "price": 49,
+    "unit": "rental",
+    "maxQty": 1,
+    "icon": "fuel",
+    "popular": false
+  },
+  {
+    "id": "roadside",
+    "name": "Roadside assistance+",
+    "description": "Lockout, flat tyre and jump-start help 24/7.",
+    "price": 6.99,
+    "unit": "day",
+    "maxQty": 1,
+    "icon": "life-buoy",
+    "popular": false
+  },
+  {
+    "id": "wifi",
+    "name": "Mobile Wi-Fi hotspot",
+    "description": "Unlimited 4G data for up to 5 devices.",
+    "price": 10.99,
+    "unit": "day",
+    "maxQty": 1,
+    "icon": "wifi",
+    "popular": false
+  }
+]

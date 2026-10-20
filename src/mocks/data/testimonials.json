@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t1",
+    "name": "Priya Sharma",
+    "city": "San Francisco, CA",
+    "rating": 5,
+    "trip": "Napa weekend",
+    "text": "Booked in two minutes, picked up in ten. The price I saw was the price I paid — no surprises at the counter."
+  },
+  {
+    "id": "t2",
+    "name": "Marcus Taylor",
+    "city": "Atlanta, GA",
+    "rating": 5,
+    "trip": "Business travel",
+    "text": "I rent every other week for work. Travionza is the first service where changing a booking actually takes seconds."
+  },
+  {
+    "id": "t3",
+    "name": "Elena Rossi",
+    "city": "Orlando, FL",
+    "rating": 4,
+    "trip": "Family holiday",
+    "text": "The minivan was spotless and the child seats were already installed. Support answered at midnight when our flight was late."
+  },
+  {
+    "id": "t4",
+    "name": "James Okafor",
+    "city": "Denver, CO",
+    "rating": 5,
+    "trip": "Ski trip",
+    "text": "AWD SUV, roof box and a clear breakdown of what insurance covered. Exactly what I needed."
+  },
+  {
+    "id": "t5",
+    "name": "Sofia Martinez",
+    "city": "Miami, FL",
+    "rating": 5,
+    "trip": "Keys road trip",
+    "text": "Convertible for the Overseas Highway was the highlight of our trip. Smooth return, no hidden fees."
+  },
+  {
+    "id": "t6",
+    "name": "Daniel Kim",
+    "city": "Seattle, WA",
+    "rating": 5,
+    "trip": "Olympic National Park",
+    "text": "Loved the electric options and the charging tips in the confirmation email. Great experience start to finish."
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic",
+    "description": "Third-party liability included with every rental.",
+    "pricePerDay": 0,
+    "excess": 2500,
+    "included": [
+      "Third-party liability",
+      "Theft protection"
+    ]
+  },
+  {
+    "id": "standard",
+    "name": "Standard",
+    "description": "Lower your excess and cover windscreen and tyre damage.",
+    "pricePerDay": 14.99,
+    "excess": 500,
+    "included": [
+      "Collision damage waiver",
+      "Windscreen & tyre cover",
+      "Theft protection"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "description": "Zero excess and complete peace of mind.",
+    "pricePerDay": 24.99,
+    "excess": 0,
+    "included": [
+      "Zero excess",
+      "Collision damage waiver",
+      "Windscreen & tyre cover",
+      "Personal accident cover",
+      "Key replacement"
+    ]
+  }
+]

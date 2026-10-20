@@ -1,0 +1,804 @@
+{
+ "slug": "refund",
+ "title": "Refund Policy",
+ "effective": "October 20, 2026",
+ "blocks": [
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "This policy explains what you pay, when we charge you, and when money can be returned for car rentals booked through Travionza LLC (“Travionza,” “we,” “us”). Please read it before you authorize payment."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "summary",
+   "text": "Summary"
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "You are charged "
+     },
+     {
+      "t": "only after you give us your written authorization",
+      "b": true
+     },
+     {
+      "t": " (by email or another method described in Section 4)."
+     }
+    ],
+    [
+     {
+      "t": "The "
+     },
+     {
+      "t": "supplier’s car rental price is non-refundable",
+      "b": true
+     },
+     {
+      "t": " once your booking is made."
+     }
+    ],
+    [
+     {
+      "t": "The "
+     },
+     {
+      "t": "Travionza service fee is refundable only if the supplier cancels your booking or no car is available",
+      "b": true
+     },
+     {
+      "t": " and we cannot provide a suitable replacement."
+     }
+    ],
+    [
+     {
+      "t": "Approved refunds are paid to your original payment method and take "
+     },
+     {
+      "t": "7 to 10 business days after the refund is processed",
+      "b": true
+     },
+     {
+      "t": " to reach you."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "By authorizing payment for a booking, you confirm that you have read and agree to this policy."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "1-our-role",
+   "text": "1. Our Role"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza LLC is a Utah limited liability company that works as an "
+    },
+    {
+     "t": "independent booking intermediary",
+     "b": true
+    },
+    {
+     "t": ". When you call us, our agents take your request and make the reservation with an independent car rental company (the “Supplier”) on your behalf. You can also request a booking through our website or by email. Travionza does not own, operate or insure the vehicles, and we are not the rental company."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "The rental contract is between you and the Supplier. Because the Supplier sets and keeps the rental price, Supplier rules decide whether any part of the rental price can come back to you."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "2-what-you-pay",
+   "text": "2. What You Pay"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Your total has two parts, plus any taxes or surcharges shown in your quote:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Rental price:",
+      "b": true
+     },
+     {
+      "t": " the amount charged by the Supplier for the vehicle and rental period."
+     }
+    ],
+    [
+     {
+      "t": "Travionza service fee:",
+      "b": true
+     },
+     {
+      "t": " our fee for finding, arranging and managing your booking."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Example.",
+     "b": true
+    },
+    {
+     "t": " Rental price $200 + Travionza service fee $40 = "
+    },
+    {
+     "t": "total payment $240",
+     "b": true
+    },
+    {
+     "t": "."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We will state your total and each part in the quote and in the authorization request before we charge you."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "3-who-gets-refunded-what",
+   "text": "3. Who Gets Refunded What"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "The table shows the result for the $200 + $40 example above."
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    [
+     {
+      "t": "Situation",
+      "b": true
+     }
+    ],
+    [
+     {
+      "t": "Rental price ($200)",
+      "b": true
+     }
+    ],
+    [
+     {
+      "t": "Service fee ($40)",
+      "b": true
+     }
+    ]
+   ],
+   "rows": [
+    [
+     [
+      {
+       "t": "You cancel or change your mind",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "You change dates or pickup location (if the Supplier allows it)",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Supplier’s rules and change fees apply",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "No-show, late arrival or early return",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Supplier refuses the car because of license, age, card or deposit problems",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Not refundable",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Supplier cancels and no replacement is provided",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Any amount the Supplier refunds to us is passed to you",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Refunded in full",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "No car is available at pickup and no replacement is provided",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Any amount the Supplier refunds to us is passed to you",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Refunded in full",
+       "b": true
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "4-when-we-charge-you",
+   "text": "4. When We Charge You"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We do not charge your card or other payment method until you have authorized the charge. Our process is:"
+    }
+   ]
+  },
+  {
+   "type": "ol",
+   "items": [
+    [
+     {
+      "t": "We give you a quote that shows the rental price, service fee, taxes and surcharges, and total."
+     }
+    ],
+    [
+     {
+      "t": "We send you an authorization request by email, or by text message, secure form or another written method we agree on. If you booked by phone, we may also confirm the key terms on the call."
+     }
+    ],
+    [
+     {
+      "t": "You confirm in writing (for example, by replying “I AGREE” to the email) that you authorize the charge."
+     }
+    ],
+    [
+     {
+      "t": "We charge the amount you authorized and send you a booking confirmation."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Your authorization states the cardholder name, the last four digits of the card, the total amount, the booking details and your agreement to this Refund Policy and our Terms and Conditions. We keep a record of your authorization. You confirm that you are the cardholder, or that the cardholder has authorized you to use the card."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We will not charge more than the amount you authorized unless you authorize the additional amount first."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "5-the-rental-price-is-non-refundable",
+   "text": "5. The Rental Price Is Non-Refundable"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Once your booking is confirmed, the rental price is "
+    },
+    {
+     "t": "non-refundable",
+     "b": true
+    },
+    {
+     "t": ". We pay it to the Supplier, and the Supplier’s terms generally do not allow it to be returned. This applies even if you:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "cancel, change your travel plans or no longer need the car;"
+     }
+    ],
+    [
+     {
+      "t": "do not pick up the car or arrive late;"
+     }
+    ],
+    [
+     {
+      "t": "return the car early or do not use all of the rental days;"
+     }
+    ],
+    [
+     {
+      "t": "are refused a car at the counter because of an expired or invalid driver’s license, age rules, a missing or non-matching credit or debit card, or no security deposit;"
+     }
+    ],
+    [
+     {
+      "t": "book the wrong dates, location or car class, or give us wrong information; or"
+     }
+    ],
+    [
+     {
+      "t": "choose another Supplier or vehicle after booking."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If the Supplier decides to refund all or part of the rental price, we will pass it to you as set out in Section 7."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "6-the-service-fee-is-refundable-only-in-two-cases",
+   "text": "6. The Service Fee Is Refundable Only in Two Cases"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "The Travionza service fee is "
+    },
+    {
+     "t": "non-refundable",
+     "b": true
+    },
+    {
+     "t": ", except when:"
+    }
+   ]
+  },
+  {
+   "type": "ol",
+   "items": [
+    [
+     {
+      "t": "the Supplier cancels your confirmed booking",
+      "b": true
+     },
+     {
+      "t": ", or"
+     }
+    ],
+    [
+     {
+      "t": "no car is available",
+      "b": true
+     },
+     {
+      "t": " for your confirmed booking at pickup,"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "and in either case we are unable to provide a suitable replacement car that you accept. We then refund the service fee in full."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "The service fee is not refundable if you cancel or change your booking, do not pick up the car, or are refused the car for a reason within your control (see Section 5)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "7-if-the-supplier-cancels-or-no-car-is-available",
+   "text": "7. If the Supplier Cancels or No Car Is Available"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If your Supplier cancels or cannot provide a car, we will:"
+    }
+   ]
+  },
+  {
+   "type": "ol",
+   "items": [
+    [
+     {
+      "t": "Contact you as soon as we learn of the problem."
+     }
+    ],
+    [
+     {
+      "t": "Offer you a replacement car of a similar class, from the same or another Supplier, where one is available. We will tell you before you accept if it costs more. You do not have to accept it."
+     }
+    ],
+    [
+     {
+      "t": "If you decline the replacement or none is available, refund the service fee in full and pass on to you any part of the rental price that the Supplier refunds to us."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We will do this within the timing in Section 11."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "8-changes-to-a-booking",
+   "text": "8. Changes to a Booking"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Changes to dates, times, locations or drivers depend on the Supplier’s approval and availability. If a change is allowed, you pay any price difference and any change fee set by the Supplier. We do not charge a new service fee for a change unless we tell you and you authorize it first."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "9-problems-at-pickup-or-during-the-rental",
+   "text": "9. Problems at Pickup or During the Rental"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Your rental agreement is with the Supplier. If something goes wrong at pickup (for example, the car class is wrong), call or email us right away and we will help you work with the Supplier. Charges made directly by the Supplier, such as deposits, fuel, tolls, fines, damage, extra coverage and late-return fees, are between you and the Supplier, and Travionza cannot refund them."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "10-how-to-request-a-refund",
+   "text": "10. How to Request a Refund"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you believe you qualify for a refund under Section 6 or Section 7, contact us within "
+    },
+    {
+     "t": "14 days",
+     "b": true
+    },
+    {
+     "t": " of your scheduled pickup date:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Email: help@travionza.com"
+     }
+    ],
+    [
+     {
+      "t": "Phone: 9999999999"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Please include your name, booking confirmation number and a short description of what happened. We will review your request and reply within "
+    },
+    {
+     "t": "5 business days",
+     "b": true
+    },
+    {
+     "t": "."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "11-refund-timing-and-method",
+   "text": "11. Refund Timing and Method"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Approved refunds go back to the original payment method. After we process a refund, please allow "
+    },
+    {
+     "t": "7 to 10 business days",
+     "b": true
+    },
+    {
+     "t": " for it to appear on your statement. Your bank or card issuer may take longer to post it. Currency conversion or foreign transaction fees charged by your bank are not refundable by us."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "12-chargebacks-and-payment-disputes",
+   "text": "12. Chargebacks and Payment Disputes"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you have a question about a charge, please contact us first at help@travionza.com so we can review it quickly. Many questions can be solved faster than a card dispute."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you file a chargeback or dispute for a charge you authorized, we may give your card issuer and our payment processor the records of your booking, including your written authorization, your agreement to this Refund Policy and the Terms and Conditions, our emails and call records, the Supplier’s confirmation and proof of what was provided. If a dispute is filed on a charge that was authorized and is not refundable under this policy, you agree to pay us any chargeback fees and reasonable costs we incur because of it, to the extent the law allows."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Nothing in this policy limits your rights under federal or state law, including your right to dispute a charge that was unauthorized, was not delivered as agreed or contains a billing error."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "13-unauthorized-charges-and-fraud",
+   "text": "13. Unauthorized Charges and Fraud"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you see a charge from Travionza that you did not authorize, contact us immediately. We will investigate, and if the charge was not authorized by the cardholder, we will refund it in full. We may ask for identity verification and may cancel bookings we believe are fraudulent."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "14-taxes-and-fees",
+   "text": "14. Taxes and Fees"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Taxes, airport fees and surcharges are set by the Supplier or by law. Unless they are returned to us, they follow the same rules as the rental price in Section 5."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "15-exceptions",
+   "text": "15. Exceptions"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may, at our sole discretion, make a goodwill exception in a special case. An exception for one customer does not change this policy or create a right for anyone else."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "16-customer-acknowledgment",
+   "text": "16. Customer Acknowledgment"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "When you authorize a payment, you confirm that:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "you received a quote showing the rental price, the service fee and the total;"
+     }
+    ],
+    [
+     {
+      "t": "you understand that the rental price is non-refundable once the booking is confirmed;"
+     }
+    ],
+    [
+     {
+      "t": "you understand that the service fee is refundable only in the cases in Section 6;"
+     }
+    ],
+    [
+     {
+      "t": "you have read this Refund Policy and our Terms and Conditions and agree to them; and"
+     }
+    ],
+    [
+     {
+      "t": "you are the cardholder, or the cardholder has authorized the charge."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "17-changes-to-this-policy",
+   "text": "17. Changes to This Policy"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may update this policy from time to time. The version in force when you authorize payment applies to that booking."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "18-contact-us",
+   "text": "18. Contact Us"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza LLC"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Email: help@travionza.com"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Phone: 9999999999"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Address: [Business address, Utah, USA]"
+    }
+   ]
+  }
+ ]
+}

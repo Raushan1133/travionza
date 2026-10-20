@@ -1,0 +1,174 @@
+{
+ "slug": "overview",
+ "title": "Key Terms at a Glance",
+ "effective": "October 20, 2026",
+ "blocks": [
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "A short summary. The full policies that follow control."
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    [
+     {
+      "t": "Topic",
+      "b": true
+     }
+    ],
+    [
+     {
+      "t": "Summary",
+      "b": true
+     }
+    ]
+   ],
+   "rows": [
+    [
+     [
+      {
+       "t": "Who we are",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Travionza LLC, a Utah limited liability company and independent booking intermediary for car rentals",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "How you book",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Call our agents, or request a booking online or by email. Our agents make the reservation with the rental company on your behalf",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "When you are charged",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Only after you authorize the exact amount in writing (email, text or another written method)",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Your total",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Rental price + Travionza service fee + taxes and surcharges (example: $200 + $40 = $240)",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Rental price",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Non-refundable once the booking is confirmed",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Service fee",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Refundable only if the supplier cancels or no car is available and no replacement is provided",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Refund timing",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "7 to 10 business days after the refund is processed",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Payment disputes",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Please contact help@travionza.com first. For authorized charges that are not refundable, we may give your bank your written authorization",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Governing law",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "State of Utah, USA",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Contact",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "help@travionza.com or 9999999999",
+       "b": true
+      }
+     ]
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,478 @@
+[
+  {
+    "slug": "orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "USA",
+    "airportCode": "MCO",
+    "airportName": "Orlando International Airport",
+    "popular": true,
+    "hue": 205,
+    "tagline": "Theme parks, sunshine and open roads",
+    "description": "Orlando is the gateway to world-famous theme parks, Space Coast launches and Gulf beaches. A car makes the sprawl easy: most attractions are 15–40 minutes apart.",
+    "highlights": [
+      "Free toll-pass add-on",
+      "Family-sized vehicles",
+      "Shuttle-free airport pick-up"
+    ],
+    "phone": "+1 (844) 555-0661",
+    "branches": [
+      {
+        "id": "orlando-airport",
+        "name": "Orlando International Airport (MCO)",
+        "type": "airport",
+        "address": "Rental Car Center, Orlando International Airport, Orlando, FL",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "orlando-downtown",
+        "name": "Orlando Downtown",
+        "type": "downtown",
+        "address": "739 International Dr, Orlando, FL",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "miami",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "airportCode": "MIA",
+    "airportName": "Miami International Airport",
+    "popular": true,
+    "hue": 178,
+    "tagline": "Beaches, Art Deco and the Keys",
+    "description": "From South Beach to the Everglades and the drive down to Key West, Miami rewards anyone with their own wheels. Convertibles are a local favourite.",
+    "highlights": [
+      "Convertible specials",
+      "Keys road-trip friendly",
+      "Open late for red-eyes"
+    ],
+    "phone": "+1 (844) 555-0533",
+    "branches": [
+      {
+        "id": "miami-airport",
+        "name": "Miami International Airport (MIA)",
+        "type": "airport",
+        "address": "Rental Car Center, Miami International Airport, Miami, FL",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "miami-downtown",
+        "name": "Miami Downtown",
+        "type": "downtown",
+        "address": "317 Brickell Ave, Miami, FL",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "los-angeles",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "airportCode": "LAX",
+    "airportName": "Los Angeles International Airport",
+    "popular": true,
+    "hue": 35,
+    "tagline": "Coastal drives and canyon roads",
+    "description": "LA is built around the car. Pick up at LAX and be on Pacific Coast Highway within the hour, or head inland to the desert and national parks.",
+    "highlights": [
+      "Pacific Coast Highway ready",
+      "EV charging nearby",
+      "Easy one-way to San Diego"
+    ],
+    "phone": "+1 (844) 555-0356",
+    "branches": [
+      {
+        "id": "los-angeles-airport",
+        "name": "Los Angeles International Airport (LAX)",
+        "type": "airport",
+        "address": "Rental Car Center, Los Angeles International Airport, Los Angeles, CA",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "los-angeles-downtown",
+        "name": "Los Angeles Downtown",
+        "type": "downtown",
+        "address": "678 Wilshire Blvd, Los Angeles, CA",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "las-vegas",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "airportCode": "LAS",
+    "airportName": "Harry Reid International Airport",
+    "popular": true,
+    "hue": 330,
+    "tagline": "Strip nights and desert escapes",
+    "description": "Day trips to Red Rock Canyon, Valley of Fire and the Grand Canyon are all within a few hours. Grab an SUV and make a weekend of it.",
+    "highlights": [
+      "Desert-ready SUVs",
+      "Grand Canyon day trips",
+      "Free hotel valet drop-off"
+    ],
+    "phone": "+1 (844) 555-0421",
+    "branches": [
+      {
+        "id": "las-vegas-airport",
+        "name": "Harry Reid International Airport (LAS)",
+        "type": "airport",
+        "address": "Rental Car Center, Harry Reid International Airport, Las Vegas, NV",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "las-vegas-downtown",
+        "name": "Las Vegas Downtown",
+        "type": "downtown",
+        "address": "160 S Las Vegas Blvd, Las Vegas, NV",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "new-york",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "airportCode": "JFK",
+    "airportName": "John F. Kennedy International Airport",
+    "popular": true,
+    "hue": 265,
+    "tagline": "The city that never sleeps — and the roads beyond",
+    "description": "Rent for the Hudson Valley, Hamptons or New England leaf season. Pick up at JFK or a Manhattan branch and skip the airport rush.",
+    "highlights": [
+      "Manhattan & Brooklyn branches",
+      "E-ZPass add-on",
+      "Weekend getaway deals"
+    ],
+    "phone": "+1 (844) 555-0541",
+    "branches": [
+      {
+        "id": "new-york-airport",
+        "name": "John F. Kennedy International Airport (JFK)",
+        "type": "airport",
+        "address": "Rental Car Center, John F. Kennedy International Airport, New York City, NY",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "new-york-downtown",
+        "name": "New York City Downtown",
+        "type": "downtown",
+        "address": "397 W 42nd St, New York City, NY",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "san-francisco",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "airportCode": "SFO",
+    "airportName": "San Francisco International Airport",
+    "popular": true,
+    "hue": 15,
+    "tagline": "Bridges, wine country and redwoods",
+    "description": "Cross the Golden Gate to Napa, Muir Woods or down Highway 1 to Big Sur. Compact cars are best for the city's steep, narrow streets.",
+    "highlights": [
+      "Compact & EV options",
+      "Wine-country road trips",
+      "Highway 1 favourites"
+    ],
+    "phone": "+1 (844) 555-0785",
+    "branches": [
+      {
+        "id": "san-francisco-airport",
+        "name": "San Francisco International Airport (SFO)",
+        "type": "airport",
+        "address": "Rental Car Center, San Francisco International Airport, San Francisco, CA",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "san-francisco-downtown",
+        "name": "San Francisco Downtown",
+        "type": "downtown",
+        "address": "518 Market St, San Francisco, CA",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "chicago",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "airportCode": "ORD",
+    "airportName": "O'Hare International Airport",
+    "popular": false,
+    "hue": 230,
+    "tagline": "Lakefront skyline and Midwest road trips",
+    "description": "Chicago is the start of Route 66 and an easy drive to Milwaukee, Indiana Dunes and Door County.",
+    "highlights": [
+      "Route 66 starting point",
+      "Winter-ready AWD options",
+      "Downtown Loop branch"
+    ],
+    "phone": "+1 (844) 555-0694",
+    "branches": [
+      {
+        "id": "chicago-airport",
+        "name": "O'Hare International Airport (ORD)",
+        "type": "airport",
+        "address": "Rental Car Center, O'Hare International Airport, Chicago, IL",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "chicago-downtown",
+        "name": "Chicago Downtown",
+        "type": "downtown",
+        "address": "705 N Michigan Ave, Chicago, IL",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA",
+    "airportCode": "DFW",
+    "airportName": "Dallas/Fort Worth International Airport",
+    "popular": false,
+    "hue": 25,
+    "tagline": "Big skies and bigger road trips",
+    "description": "Dallas–Fort Worth is huge, and so is the Texas road network. Trucks and full-size SUVs are popular here.",
+    "highlights": [
+      "Trucks & full-size SUVs",
+      "Fort Worth drop-off",
+      "Hill Country trips"
+    ],
+    "phone": "+1 (844) 555-0205",
+    "branches": [
+      {
+        "id": "dallas-airport",
+        "name": "Dallas/Fort Worth International Airport (DFW)",
+        "type": "airport",
+        "address": "Rental Car Center, Dallas/Fort Worth International Airport, Dallas, TX",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "dallas-downtown",
+        "name": "Dallas Downtown",
+        "type": "downtown",
+        "address": "254 Main St, Dallas, TX",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "airportCode": "ATL",
+    "airportName": "Hartsfield–Jackson Atlanta International Airport",
+    "popular": false,
+    "hue": 150,
+    "tagline": "Southern hospitality, mountains nearby",
+    "description": "Use Atlanta as a base for the Blue Ridge Mountains, Savannah and the Gulf coast. The airport is the busiest in the world, so pick-up is quick and well signposted.",
+    "highlights": [
+      "Blue Ridge Mountain drives",
+      "Fast airport pick-up",
+      "One-way to Savannah"
+    ],
+    "phone": "+1 (844) 555-0488",
+    "branches": [
+      {
+        "id": "atlanta-airport",
+        "name": "Hartsfield–Jackson Atlanta International Airport (ATL)",
+        "type": "airport",
+        "address": "Rental Car Center, Hartsfield–Jackson Atlanta International Airport, Atlanta, GA",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "atlanta-downtown",
+        "name": "Atlanta Downtown",
+        "type": "downtown",
+        "address": "500 Peachtree St, Atlanta, GA",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "denver",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "airportCode": "DEN",
+    "airportName": "Denver International Airport",
+    "popular": false,
+    "hue": 140,
+    "tagline": "Gateway to the Rockies",
+    "description": "From Denver it's about an hour to ski resorts and Rocky Mountain National Park. AWD SUVs and trucks are in high demand in winter.",
+    "highlights": [
+      "AWD & snow-ready SUVs",
+      "Ski-rack add-on",
+      "Rocky Mountain access"
+    ],
+    "phone": "+1 (844) 555-0576",
+    "branches": [
+      {
+        "id": "denver-airport",
+        "name": "Denver International Airport (DEN)",
+        "type": "airport",
+        "address": "Rental Car Center, Denver International Airport, Denver, CO",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "denver-downtown",
+        "name": "Denver Downtown",
+        "type": "downtown",
+        "address": "223 17th St, Denver, CO",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "seattle",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "airportCode": "SEA",
+    "airportName": "Seattle–Tacoma International Airport",
+    "popular": false,
+    "hue": 190,
+    "tagline": "Evergreen forests and island ferries",
+    "description": "Rent in Seattle for Olympic National Park, Mount Rainier and the San Juan Islands.",
+    "highlights": [
+      "Ferry-friendly compacts",
+      "National park trips",
+      "EV charging network"
+    ],
+    "phone": "+1 (844) 555-0479",
+    "branches": [
+      {
+        "id": "seattle-airport",
+        "name": "Seattle–Tacoma International Airport (SEA)",
+        "type": "airport",
+        "address": "Rental Car Center, Seattle–Tacoma International Airport, Seattle, WA",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "seattle-downtown",
+        "name": "Seattle Downtown",
+        "type": "downtown",
+        "address": "216 Pike St, Seattle, WA",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "phoenix",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "airportCode": "PHX",
+    "airportName": "Phoenix Sky Harbor International Airport",
+    "popular": false,
+    "hue": 45,
+    "tagline": "Desert sunsets and canyon country",
+    "description": "Sedona, the Grand Canyon and Saguaro National Park are all a short drive away. Air-conditioned and spacious is the way to go.",
+    "highlights": [
+      "Grand Canyon access",
+      "Sedona day trips",
+      "Easy airport rental centre"
+    ],
+    "phone": "+1 (844) 555-0602",
+    "branches": [
+      {
+        "id": "phoenix-airport",
+        "name": "Phoenix Sky Harbor International Airport (PHX)",
+        "type": "airport",
+        "address": "Rental Car Center, Phoenix Sky Harbor International Airport, Phoenix, AZ",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "phoenix-downtown",
+        "name": "Phoenix Downtown",
+        "type": "downtown",
+        "address": "132 N Central Ave, Phoenix, AZ",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "honolulu",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "USA",
+    "airportCode": "HNL",
+    "airportName": "Daniel K. Inouye International Airport",
+    "popular": false,
+    "hue": 170,
+    "tagline": "Island roads and ocean views",
+    "description": "Circle Oahu's coastline, hit the North Shore and explore hidden beaches. Convertibles and Jeeps are island favourites.",
+    "highlights": [
+      "Convertibles & Jeeps",
+      "North Shore trips",
+      "Open daily"
+    ],
+    "phone": "+1 (844) 555-0511",
+    "branches": [
+      {
+        "id": "honolulu-airport",
+        "name": "Daniel K. Inouye International Airport (HNL)",
+        "type": "airport",
+        "address": "Rental Car Center, Daniel K. Inouye International Airport, Honolulu, HI",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "honolulu-downtown",
+        "name": "Honolulu Downtown",
+        "type": "downtown",
+        "address": "347 Kalakaua Ave, Honolulu, HI",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  },
+  {
+    "slug": "fort-lauderdale",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "country": "USA",
+    "airportCode": "FLL",
+    "airportName": "Fort Lauderdale–Hollywood International Airport",
+    "popular": false,
+    "hue": 195,
+    "tagline": "Canals, cruises and beaches",
+    "description": "Fort Lauderdale is the cruise capital of the world and a short drive from Miami and the Palm Beaches.",
+    "highlights": [
+      "Cruise-port transfers",
+      "Late-night returns",
+      "Easy Miami one-way"
+    ],
+    "phone": "+1 (844) 555-0646",
+    "branches": [
+      {
+        "id": "fort-lauderdale-airport",
+        "name": "Fort Lauderdale–Hollywood International Airport (FLL)",
+        "type": "airport",
+        "address": "Rental Car Center, Fort Lauderdale–Hollywood International Airport, Fort Lauderdale, FL",
+        "hours": "Open 24 hours"
+      },
+      {
+        "id": "fort-lauderdale-downtown",
+        "name": "Fort Lauderdale Downtown",
+        "type": "downtown",
+        "address": "176 Las Olas Blvd, Fort Lauderdale, FL",
+        "hours": "Mon–Fri 7:00–20:00 · Sat–Sun 8:00–18:00"
+      }
+    ]
+  }
+]

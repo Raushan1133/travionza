@@ -1,0 +1,108 @@
+[
+  {
+    "id": "d1",
+    "code": "DRIVE15",
+    "title": "15% off 3+ day rentals",
+    "description": "Take 15% off the base rate when you rent for three days or more. Perfect for long weekends and week-long trips.",
+    "discountPercent": 15,
+    "minDays": 3,
+    "categories": [],
+    "validUntil": "2026-12-31",
+    "badge": "Most popular",
+    "hue": 258,
+    "terms": [
+      "Applies to the base rental rate only.",
+      "Minimum rental of 3 days.",
+      "Cannot be combined with other codes."
+    ]
+  },
+  {
+    "id": "d2",
+    "code": "WELCOME10",
+    "title": "10% off your first booking",
+    "description": "New to Travionza? Create an account and take 10% off your first rental, no minimum stay.",
+    "discountPercent": 10,
+    "minDays": 1,
+    "categories": [],
+    "validUntil": "2026-12-31",
+    "badge": "New customers",
+    "hue": 160,
+    "terms": [
+      "First booking per account.",
+      "Applies to the base rental rate only."
+    ]
+  },
+  {
+    "id": "d3",
+    "code": "LUXE25",
+    "title": "25% off luxury cars",
+    "description": "Treat yourself. Save 25% on any luxury-class vehicle for rentals of two days or more.",
+    "discountPercent": 25,
+    "minDays": 2,
+    "categories": [
+      "luxury"
+    ],
+    "validUntil": "2026-11-30",
+    "badge": "Limited time",
+    "hue": 292,
+    "terms": [
+      "Luxury category only.",
+      "Minimum rental of 2 days.",
+      "Valid on pick-ups before 30 Nov 2026."
+    ]
+  },
+  {
+    "id": "d4",
+    "code": "FAMILY12",
+    "title": "12% off SUVs & minivans",
+    "description": "Room for everyone. Save 12% on SUVs and minivans for your next family getaway.",
+    "discountPercent": 12,
+    "minDays": 2,
+    "categories": [
+      "suv",
+      "minivan"
+    ],
+    "validUntil": "2026-12-31",
+    "badge": "Family",
+    "hue": 45,
+    "terms": [
+      "SUV and minivan categories only.",
+      "Minimum rental of 2 days."
+    ]
+  },
+  {
+    "id": "d5",
+    "code": "EV10",
+    "title": "10% off electric cars",
+    "description": "Go electric for less. Enjoy 10% off any fully electric vehicle in our fleet.",
+    "discountPercent": 10,
+    "minDays": 1,
+    "categories": [],
+    "fuels": [
+      "electric"
+    ],
+    "validUntil": "2026-12-31",
+    "badge": "Eco",
+    "hue": 150,
+    "terms": [
+      "Electric vehicles only.",
+      "Charging costs not included."
+    ]
+  },
+  {
+    "id": "d6",
+    "code": "THANKS20",
+    "title": "Thanksgiving week: 20% off",
+    "description": "Heading home for the holidays? Save 20% on pick-ups between 22 and 30 November.",
+    "discountPercent": 20,
+    "minDays": 2,
+    "categories": [],
+    "validUntil": "2026-11-30",
+    "badge": "Seasonal",
+    "hue": 25,
+    "terms": [
+      "Pick-up must fall between 22 and 30 Nov 2026.",
+      "Minimum rental of 2 days."
+    ]
+  }
+]

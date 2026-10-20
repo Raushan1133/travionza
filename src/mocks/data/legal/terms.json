@@ -1,0 +1,1099 @@
+{
+ "slug": "terms",
+ "title": "Terms and Conditions",
+ "effective": "October 20, 2026",
+ "blocks": [
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "These Terms and Conditions (“Terms”) govern your use of the Travionza website and the car rental booking services of Travionza LLC (“Travionza,” “we,” “us”), whether you book through our agents by phone, online or by email. By using our website, requesting a quote or authorizing a payment, you agree to these Terms, our Refund Policy and our Privacy Policy. If you do not agree, do not use our services."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "1-who-we-are",
+   "text": "1. Who We Are"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza LLC is a limited liability company organized in the State of Utah, USA. We operate as a travel agency and "
+    },
+    {
+     "t": "independent booking intermediary",
+     "b": true
+    },
+    {
+     "t": ". We do not own, operate, maintain or insure any vehicles, and we are not a car rental company."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "2-how-bookings-work",
+   "text": "2. How Bookings Work"
+  },
+  {
+   "type": "ol",
+   "items": [
+    [
+     {
+      "t": "You call our agents (or send a request by email or through our website) and tell us what car you need, the pickup and return dates and locations, and the driver details."
+     }
+    ],
+    [
+     {
+      "t": "Our agents search available options and give you a quote."
+     }
+    ],
+    [
+     {
+      "t": "If you want to proceed, we send you an authorization request (see Section 7)."
+     }
+    ],
+    [
+     {
+      "t": "After you authorize and we receive payment, our agents make the reservation with the independent car rental company (the “Supplier”) on your behalf and send you a written confirmation."
+     }
+    ],
+    [
+     {
+      "t": "You collect the car from the Supplier and sign the Supplier’s rental agreement at pickup."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Our agents act on your instructions and on the information you give us. We do not guarantee that a particular car, make or model will be available."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "3-our-role-as-intermediary",
+   "text": "3. Our Role as Intermediary"
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Travionza arranges your reservation and acts as your agent in dealing with the Supplier."
+     }
+    ],
+    [
+     {
+      "t": "The rental contract is between "
+     },
+     {
+      "t": "you and the Supplier",
+      "b": true
+     },
+     {
+      "t": ". Travionza is not a party to it."
+     }
+    ],
+    [
+     {
+      "t": "The Supplier alone is responsible for providing the car, its condition, its insurance and its rental terms."
+     }
+    ],
+    [
+     {
+      "t": "Travionza is not responsible for the Supplier’s vehicles, staff, actions or omissions, except as stated in these Terms."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "4-eligibility",
+   "text": "4. Eligibility"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "To book and rent a car, you must:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "be at least 18 years old and able to enter a binding contract (most Suppliers require the driver to be 21 or older, and some add a fee for drivers under 25);"
+     }
+    ],
+    [
+     {
+      "t": "hold a valid driver’s license for the minimum period the Supplier requires;"
+     }
+    ],
+    [
+     {
+      "t": "have a valid credit or debit card in the main driver’s name if the Supplier requires one for payment or security deposit; and"
+     }
+    ],
+    [
+     {
+      "t": "give us accurate and complete information."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "A Supplier can refuse to release a car if you do not meet its requirements. In that case our Refund Policy applies."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "5-accuracy-of-your-information",
+   "text": "5. Accuracy of Your Information"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "You are responsible for the accuracy of all information you give us, including names, driver’s license details, dates, locations and contact details. The driver’s name must match the driver’s license and the payment card the Supplier requires at pickup. Mistakes may cause the Supplier to cancel or refuse the booking, and the Refund Policy applies."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "6-prices-service-fee-and-taxes",
+   "text": "6. Prices, Service Fee and Taxes"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Your total price has two parts, plus any applicable taxes and surcharges:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Rental price:",
+      "b": true
+     },
+     {
+      "t": " the amount the Supplier charges for the car and rental period."
+     }
+    ],
+    [
+     {
+      "t": "Travionza service fee:",
+      "b": true
+     },
+     {
+      "t": " our fee for arranging and managing the booking."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Example:",
+     "b": true
+    },
+    {
+     "t": " rental price $200 + Travionza service fee $40 = total payment $240."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Prices are in US dollars unless stated otherwise. We show the total and each part in your quote and in the authorization request before we charge you. Supplier prices can change until the booking is confirmed. The Supplier may charge extra amounts at the counter, such as security deposits, fuel, tolls, extra drivers, young-driver fees, insurance and equipment. Those are set by the Supplier and paid to the Supplier."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "7-payment-authorization",
+   "text": "7. Payment Authorization"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We charge you only after you authorize it.",
+     "b": true
+    },
+    {
+     "t": " Before we charge a card or other payment method, we send an authorization request by email, or by text message, secure form or another written method we agree on. The request states the total amount, the cardholder name, the last four digits of the card and the booking details."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "When you confirm (for example, by replying “I AGREE”), you:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "authorize Travionza LLC to charge the total amount to the payment method you named;"
+     }
+    ],
+    [
+     {
+      "t": "confirm that you are the cardholder, or that the cardholder has authorized the charge;"
+     }
+    ],
+    [
+     {
+      "t": "confirm that you have read and agree to these Terms, the Refund Policy and the Privacy Policy, including that the rental price is non-refundable; and"
+     }
+    ],
+    [
+     {
+      "t": "agree that your written confirmation is your electronic signature and counts as a signed authorization."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We will not charge more than the amount you authorized unless you authorize the extra amount first. A sample authorization is in Schedule A at the end of these Terms."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "8-booking-confirmation",
+   "text": "8. Booking Confirmation"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "A booking is confirmed only when we have received payment and sent you a written confirmation by email or text message. Please check your confirmation right away and tell us about any mistake within 24 hours. If you have not received a confirmation from us, assume the booking is not confirmed."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "9-cancellations-changes-and-refunds",
+   "text": "9. Cancellations, Changes and Refunds"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "The Supplier’s rental price is non-refundable. The Travionza service fee is refundable only if the Supplier cancels your booking or no car is available and we cannot provide a suitable replacement. Approved refunds are paid to your original payment method and take 7 to 10 business days after the refund is processed to reach you. Our Refund Policy has the full details and is part of these Terms. Changes depend on Supplier approval, and Supplier change fees are your responsibility."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "10-payment-disputes-and-chargebacks",
+   "text": "10. Payment Disputes and Chargebacks"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Please contact us at help@travionza.com before you dispute a charge with your bank or card issuer, so we can resolve it quickly. If you dispute a charge that you authorized and that is not refundable under our Refund Policy, you agree that:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "we may give your card issuer and payment processor the records of the booking, including your written authorization, your agreement to these Terms and the Refund Policy, our emails and call records, and the Supplier’s confirmation;"
+     }
+    ],
+    [
+     {
+      "t": "you will pay us any chargeback fees and reasonable costs we incur because of the dispute, to the extent the law allows; and"
+     }
+    ],
+    [
+     {
+      "t": "we may suspend your access to our services while the dispute is open."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Nothing in these Terms limits any right you have under law to dispute an unauthorized charge, a billing error or a charge for services that were not provided."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "11-the-supplier-s-rental-agreement",
+   "text": "11. The Supplier’s Rental Agreement"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "When you collect the car you will sign the Supplier’s rental agreement. It controls the rental, including mileage, fuel, deposits, insurance, damage, tolls, fines, additional drivers, geographic limits and return conditions. Please read it before signing. If the Supplier’s agreement conflicts with what you were told by us, the Supplier’s agreement applies to the rental, and you should contact us before you accept the car."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "12-your-responsibilities-during-the-rental",
+   "text": "12. Your Responsibilities During the Rental"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "While you have the car, you are responsible to the Supplier for:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "following the rental agreement and all traffic laws;"
+     }
+    ],
+    [
+     {
+      "t": "parking tickets, tolls, traffic and camera fines and related administrative fees;"
+     }
+    ],
+    [
+     {
+      "t": "damage, loss or theft as set out in the rental agreement;"
+     }
+    ],
+    [
+     {
+      "t": "returning the car on time, at the agreed place and with the agreed fuel level; and"
+     }
+    ],
+    [
+     {
+      "t": "not using the car illegally, for racing or towing, or while under the influence of alcohol or drugs."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "13-insurance-and-protection",
+   "text": "13. Insurance and Protection"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza does not provide insurance. Your rental may include basic coverage required by law, and the Supplier may offer extra coverage at the counter. Before you rent, check your own auto insurance and any credit card rental benefits. You are responsible for deciding what coverage you need."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "14-supplier-cancellations-and-substitutions",
+   "text": "14. Supplier Cancellations and Substitutions"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Suppliers can occasionally cancel a booking or provide a different car of a similar class. You book a car category, not a specific make or model. If a Supplier cancels, we will follow the steps in our Refund Policy."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "15-booking-for-someone-else",
+   "text": "15. Booking for Someone Else"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you book for another driver, you confirm that you have their permission to give us their information, that they meet the Supplier’s requirements, and that you will make them aware of these Terms, the Refund Policy and the Supplier’s rental agreement. You remain responsible for the booking and the payment."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "16-electronic-communications-and-call-records",
+   "text": "16. Electronic Communications and Call Records"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "You agree that we can contact you by email, text message and phone about your booking, and that we can give you notices, confirmations and policies electronically. Message and data rates may apply. We may record or take notes of calls for quality, training and record-keeping, and we will tell you at the start of a call if it is being recorded. You can ask to stop marketing messages at any time."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "17-using-our-website",
+   "text": "17. Using Our Website"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "You agree to use our website only for lawful purposes. You must not misuse it, try to break into or disrupt our systems, copy our content without permission, submit false bookings, or use automated tools to collect our data."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "18-intellectual-property",
+   "text": "18. Intellectual Property"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "The Travionza name, logo, website and its content belong to Travionza LLC or its licensors and are protected by law. You may not use them without our written permission."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "19-disclaimers",
+   "text": "19. Disclaimers"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We work hard to give you accurate information, but our website and services are provided “as is” and “as available.” To the fullest extent permitted by law, Travionza does not promise that the website will be error-free or always available, or that Supplier information, prices and vehicle details will always be complete or current. We are not responsible for delays, cancellations or events outside our reasonable control."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "20-limitation-of-liability",
+   "text": "20. Limitation of Liability"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "To the fullest extent permitted by law:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Travionza is not liable for the acts, errors or omissions of Suppliers, or for any injury, death, loss, damage or expense arising from your rental or use of a car;"
+     }
+    ],
+    [
+     {
+      "t": "Travionza is not liable for indirect, incidental, special, consequential or punitive losses, such as lost trip costs, lost time, missed events or lost profits; and"
+     }
+    ],
+    [
+     {
+      "t": "if Travionza is found liable to you for any reason, our total liability for the booking in question is limited to the "
+     },
+     {
+      "t": "service fee you paid to Travionza",
+      "b": true
+     },
+     {
+      "t": " for that booking."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Some states do not allow certain limits, so some of these limits may not apply to you. Nothing in these Terms limits liability that cannot be limited by law."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "21-indemnification",
+   "text": "21. Indemnification"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "You agree to defend and cover Travionza, its members, managers, employees and agents against claims, losses and costs (including reasonable legal fees) that result from your breach of these Terms, your violation of the law or of a Supplier’s rental agreement, the information you give us, or your use or misuse of the car or our website."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "22-events-beyond-our-control",
+   "text": "22. Events Beyond Our Control"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza is not responsible for failure or delay caused by events outside our reasonable control, including natural disasters, severe weather, accidents, war, terrorism, strikes, government actions, pandemics, and failures of the Internet, power, payment systems or Suppliers."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "23-governing-law-and-dispute-resolution",
+   "text": "23. Governing Law and Dispute Resolution"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "These Terms are governed by the laws of the State of Utah, USA, without regard to conflict-of-law rules, and by the Federal Arbitration Act where it applies."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Step 1: Contact us first.",
+     "b": true
+    },
+    {
+     "t": " Email help@travionza.com with a description of the problem. We will try in good faith to resolve it within 30 days."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Step 2: Binding arbitration.",
+     "b": true
+    },
+    {
+     "t": " If we cannot resolve it, you and Travionza agree to resolve any dispute arising from these Terms or our services by final and binding arbitration, rather than in court, under the consumer arbitration rules of the American Arbitration Association. The arbitration will be held in Utah or, if you prefer, by phone or video. You and Travionza each give up the right to a jury trial."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Exceptions.",
+     "b": true
+    },
+    {
+     "t": " Either side may bring an individual claim in small-claims court if it qualifies, and either side may ask a court for urgent relief to protect intellectual property or prevent misuse of our services."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "No class actions.",
+     "b": true
+    },
+    {
+     "t": " To the extent the law allows, disputes will be resolved only on an individual basis, and not as a class, collective or representative action."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Opt out.",
+     "b": true
+    },
+    {
+     "t": " You may opt out of arbitration by emailing help@travionza.com within 30 days of your first booking with the subject “Arbitration opt-out.” If you opt out, disputes will be brought in the state or federal courts located in Utah, and you and Travionza agree to their jurisdiction."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If any part of this section is found unenforceable, the rest stays in effect, and the dispute will go to the state or federal courts located in Utah."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "24-suspension-and-termination",
+   "text": "24. Suspension and Termination"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may refuse service, cancel a booking before it is confirmed, or suspend access to our website if we reasonably believe there is fraud, misuse, a payment problem or a breach of these Terms. If we cancel a confirmed booking for a reason that is not your fault, the Refund Policy applies."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "25-changes-to-these-terms",
+   "text": "25. Changes to These Terms"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may update these Terms from time to time. The version posted on our website when you authorize payment applies to that booking. Continued use of the website after an update means you accept the new Terms."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "26-notices",
+   "text": "26. Notices"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may send notices to the email address or phone number you gave us. You may send notices to help@travionza.com. Notices by email are treated as received on the next business day after they are sent."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "27-general",
+   "text": "27. General"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If any part of these Terms is found to be unenforceable, the rest stays in effect. If we do not enforce a right, that does not waive it. You may not transfer your booking or these Terms without our written consent. We may transfer them in a sale or reorganization of our business. These Terms, together with the Refund Policy and Privacy Policy, are the full agreement between you and Travionza about our services."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "28-contact-us",
+   "text": "28. Contact Us"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza LLC"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Email: help@travionza.com"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Phone: 9999999999"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Address: [Business address, Utah, USA]"
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "schedule-a-sample-payment-authorization-email",
+   "text": "Schedule A: Sample Payment Authorization (Email)",
+   "schedule": true
+  },
+  {
+   "type": "form",
+   "blocks": [
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "We send this by email (or another written method) before we charge you. You confirm by replying “I AGREE.”"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Subject: Please confirm your car rental booking and payment authorization"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Hello [Customer name],"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Please review your booking and confirm that we may charge your card."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Booking: [car class], [pickup location], [pickup date and time] to [return location], [return date and time]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Driver: [driver name]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Rental price (charged by the Supplier): $[amount]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Travionza service fee: $[amount]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Taxes and surcharges: $[amount]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "TOTAL TO BE CHARGED: $[total]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Cardholder: [name on card], card ending [last 4 digits]"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "By replying “I AGREE” I confirm that:"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "1. I am the cardholder, or the cardholder has authorized this charge."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "2. I authorize Travionza LLC to charge the total above to this card."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "3. I have read and agree to the Terms and Conditions and the Refund Policy, including that the rental price is non-refundable and that the Travionza service fee is refundable only if the supplier cancels or no car is available."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "4. My reply is my electronic signature."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Travionza LLC | help@travionza.com | 9999999999"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "schedule-b-customer-booking-and-payment-authorization-form",
+   "text": "Schedule B: Customer Booking and Payment Authorization Form",
+   "schedule": true
+  },
+  {
+   "type": "form",
+   "blocks": [
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Use this printable form when a customer prefers to sign instead of replying by email. Do not write or keep full card numbers on this form. Take the card details through the payment processor’s secure form."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      [
+       {
+        "t": "Field",
+        "b": true
+       }
+      ],
+      [
+       {
+        "t": "Details",
+        "b": true
+       }
+      ]
+     ],
+     "rows": [
+      [
+       [
+        {
+         "t": "Customer full name",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Email and phone",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Driver name (if different)",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Car class",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Pickup location, date and time",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Return location, date and time",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Rental price (charged by the Supplier)",
+         "b": true
+        }
+       ],
+       [
+        {
+         "t": "$",
+         "b": true
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "Travionza service fee",
+         "b": true
+        }
+       ],
+       [
+        {
+         "t": "$",
+         "b": true
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "Taxes and surcharges",
+         "b": true
+        }
+       ],
+       [
+        {
+         "t": "$",
+         "b": true
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "TOTAL TO BE CHARGED",
+         "b": true
+        }
+       ],
+       [
+        {
+         "t": "$",
+         "b": true
+        }
+       ]
+      ],
+      [
+       [
+        {
+         "t": "Cardholder name",
+         "b": true
+        }
+       ],
+       []
+      ],
+      [
+       [
+        {
+         "t": "Card ending (last 4 digits only)",
+         "b": true
+        }
+       ],
+       []
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "I authorize Travionza LLC to charge the total above to the card named in this form. I confirm that I am the cardholder, or that the cardholder has authorized this charge. I have read and agree to the Terms and Conditions and the Refund Policy. I understand that the rental price is non-refundable once the booking is confirmed, and that the Travionza service fee is refundable only if the Supplier cancels or no car is available and no replacement is provided. My signature below is my signature for this authorization."
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Cardholder signature: ____________________________________"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Printed name: ____________________________________"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Date: ____________________"
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "inlines": [
+      {
+       "t": "Travionza LLC | help@travionza.com | 9999999999"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "f1",
+    "category": "Booking",
+    "question": "How do I make a reservation?",
+    "answer": "Choose your pick-up location and dates, compare the available cars, then select the one you want and complete the checkout. You'll receive a confirmation email with your reference straight away."
+  },
+  {
+    "id": "f2",
+    "category": "Booking",
+    "question": "Can I modify my booking after I've confirmed it?",
+    "answer": "Yes. Open Manage booking, enter your reference and email, and you can change dates, times and extras. The price updates automatically if anything changes."
+  },
+  {
+    "id": "f3",
+    "category": "Booking",
+    "question": "Can I book for someone else?",
+    "answer": "You can, but the main driver must be present at pick-up with their own licence and payment card. Enter the driver's details at checkout."
+  },
+  {
+    "id": "f4",
+    "category": "Pick-up & return",
+    "question": "What do I need to bring to the rental counter?",
+    "answer": "A valid driving licence held for at least 12 months, a credit or debit card in the main driver's name, and your booking reference. International visitors should also bring a passport."
+  },
+  {
+    "id": "f5",
+    "category": "Pick-up & return",
+    "question": "What happens if my flight is delayed?",
+    "answer": "Add your flight number at checkout and we'll track it. Airport branches hold your car for up to 90 minutes after your scheduled pick-up, and 24-hour branches hold it all night."
+  },
+  {
+    "id": "f6",
+    "category": "Pick-up & return",
+    "question": "Can I return the car to a different location?",
+    "answer": "One-way rentals are available between most locations. Choose a different drop-off location when you search and any one-way fee is shown before you book."
+  },
+  {
+    "id": "f7",
+    "category": "Payments & fees",
+    "question": "Is the price I see the total price?",
+    "answer": "Yes. The total includes the base rate, taxes and mandatory fees. Optional extras and protection plans are shown separately so you stay in control."
+  },
+  {
+    "id": "f8",
+    "category": "Payments & fees",
+    "question": "Is there a security deposit?",
+    "answer": "A refundable deposit is held on your card at pick-up. The amount depends on the car category and is shown on every car page. It's released within 5–7 business days after return."
+  },
+  {
+    "id": "f9",
+    "category": "Cancellations",
+    "question": "What is your cancellation policy?",
+    "answer": "Most bookings can be cancelled free of charge up to 48 hours before pick-up. After that, a one-day rental charge may apply. The policy is shown on each car page before you book."
+  },
+  {
+    "id": "f10",
+    "category": "Cancellations",
+    "question": "How long do refunds take?",
+    "answer": "Refunds are issued to your original payment method straight away. Depending on your bank, it can take 5–10 business days to appear."
+  },
+  {
+    "id": "f11",
+    "category": "Drivers & insurance",
+    "question": "What is the minimum driver age?",
+    "answer": "The minimum age is 21 for most cars and 25 for luxury and convertible categories. Drivers under 25 may pay a young-driver fee at the counter."
+  },
+  {
+    "id": "f12",
+    "category": "Drivers & insurance",
+    "question": "Is insurance included?",
+    "answer": "Every rental includes basic third-party liability. You can add Standard or Premium protection at checkout to reduce or remove your excess."
+  },
+  {
+    "id": "f13",
+    "category": "Drivers & insurance",
+    "question": "Can I add an additional driver?",
+    "answer": "Yes — add them at checkout or at the counter. They'll need to bring their licence and meet the same age requirements."
+  }
+]

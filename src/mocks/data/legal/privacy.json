@@ -1,0 +1,606 @@
+{
+ "slug": "privacy",
+ "title": "Privacy Policy",
+ "effective": "October 20, 2026",
+ "blocks": [
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza LLC (“Travionza,” “we,” “us”) is a Utah limited liability company that arranges car rentals as an independent booking intermediary. This Privacy Policy explains what personal information we collect, how we use and share it, how long we keep it, and the choices and rights you have. By using our website or services, you agree to this policy."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "1-information-we-collect",
+   "text": "1. Information We Collect"
+  },
+  {
+   "type": "h3",
+   "text": "Information you give us"
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Contact details:",
+      "b": true
+     },
+     {
+      "t": " your name, email address, phone number and billing address."
+     }
+    ],
+    [
+     {
+      "t": "Booking details:",
+      "b": true
+     },
+     {
+      "t": " pickup and return dates and locations, vehicle preferences, and the names and details of additional drivers."
+     }
+    ],
+    [
+     {
+      "t": "Driver information:",
+      "b": true
+     },
+     {
+      "t": " date of birth, age, and driver’s license details (such as license number, issuing state or country and expiry date), which Suppliers need to release a car to you."
+     }
+    ],
+    [
+     {
+      "t": "Payment and authorization information:",
+      "b": true
+     },
+     {
+      "t": " the payment card details you give us, the cardholder name, the last four digits of the card, the amount, and your written authorization to charge it. Card details are collected and processed by our payment processors, and we do not store your full card number."
+     }
+    ],
+    [
+     {
+      "t": "Communications:",
+      "b": true
+     },
+     {
+      "t": " emails, messages, call notes and anything else you send us."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Information we collect automatically"
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Device and usage data:",
+      "b": true
+     },
+     {
+      "t": " IP address, browser type, device type, pages viewed, time on site and referring pages."
+     }
+    ],
+    [
+     {
+      "t": "Cookies and similar technologies:",
+      "b": true
+     },
+     {
+      "t": " small files that help our website work, remember your choices and measure how the site is used (see Section 6)."
+     }
+    ],
+    [
+     {
+      "t": "Authorization records:",
+      "b": true
+     },
+     {
+      "t": " the date, time, email address and technical details (such as IP address or email headers) of your authorization, which help us show that a charge was authorized."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Information from others"
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Rental Suppliers and payment processors may send us confirmations, payment status and booking updates about your reservation."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "2-how-we-use-your-information",
+   "text": "2. How We Use Your Information"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We use your information to:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "make, manage, change and confirm your car rental booking with the Supplier, including having our agents book on your behalf;"
+     }
+    ],
+    [
+     {
+      "t": "send you quotes and authorization requests, process payments and issue refunds;"
+     }
+    ],
+    [
+     {
+      "t": "contact you about your booking, including confirmations, changes, cancellations and customer support;"
+     }
+    ],
+    [
+     {
+      "t": "verify identity and cardholder authorization, and prevent fraud, misuse and unauthorized bookings;"
+     }
+    ],
+    [
+     {
+      "t": "keep records, meet tax, accounting and legal obligations, respond to payment disputes and chargebacks, and enforce our Terms;"
+     }
+    ],
+    [
+     {
+      "t": "operate, secure and improve our website and services; and"
+     }
+    ],
+    [
+     {
+      "t": "send you offers or news about Travionza, where allowed by law and where you can opt out at any time."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "3-how-we-share-your-information",
+   "text": "3. How We Share Your Information"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We do "
+    },
+    {
+     "t": "not sell",
+     "b": true
+    },
+    {
+     "t": " your personal information, and we do not share it with others for cross-context behavioral advertising. We share it only as needed:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Rental Suppliers:",
+      "b": true
+     },
+     {
+      "t": " to book and prepare your rental, we share your name, contact details, driver information and booking details with the Supplier. The Supplier’s own privacy policy applies to how they use your information."
+     }
+    ],
+    [
+     {
+      "t": "Payment processors and banks:",
+      "b": true
+     },
+     {
+      "t": " to take payments, issue refunds and respond to disputes, including giving your card issuer records of your authorization."
+     }
+    ],
+    [
+     {
+      "t": "Service providers:",
+      "b": true
+     },
+     {
+      "t": " companies that help us run our business, such as website hosting, email and messaging, customer support, analytics, accounting and security tools. They may use your data only to provide services to us."
+     }
+    ],
+    [
+     {
+      "t": "Professional advisers:",
+      "b": true
+     },
+     {
+      "t": " lawyers, accountants and insurers, where needed."
+     }
+    ],
+    [
+     {
+      "t": "Legal and safety reasons:",
+      "b": true
+     },
+     {
+      "t": " when we believe disclosure is required by law, court order or government request, or is needed to protect the rights, property or safety of Travionza, our customers or others."
+     }
+    ],
+    [
+     {
+      "t": "Business changes:",
+      "b": true
+     },
+     {
+      "t": " if Travionza is involved in a merger, sale or transfer of assets, your information may be transferred as part of that deal, and we will tell you if the use of your information changes materially."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "4-payment-information-and-authorization-records",
+   "text": "4. Payment Information and Authorization Records"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We charge you only after you authorize the charge. We keep your authorization, the booking quote and confirmation, and related emails so that we can answer questions, issue refunds and respond if a payment is disputed. Payments are handled by third-party payment processors that follow industry security standards. We keep only the limited card information needed for our records, such as the cardholder name and the last four digits."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "5-phone-calls",
+   "text": "5. Phone Calls"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you book by phone, our agents may take notes of the call, and calls may be recorded for quality, training and record-keeping purposes. We will tell you at the start of a call if it is being recorded. If you do not want a call recorded, tell us at the start and we can continue by email."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "6-cookies-and-analytics",
+   "text": "6. Cookies and Analytics"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We use cookies and similar tools to keep the website working, remember your settings and understand how visitors use the site. You can control cookies through your browser settings, and you can block or delete them. Some features of the website may not work properly if you do. Where required by law, we honor browser opt-out signals such as Global Privacy Control. Our website does not respond to “Do Not Track” signals, because there is no common standard for them."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "7-how-long-we-keep-your-information",
+   "text": "7. How Long We Keep Your Information"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We keep your information only as long as we need it for the purposes in this policy. Typical periods are:"
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    [
+     {
+      "t": "Type of information",
+      "b": true
+     }
+    ],
+    [
+     {
+      "t": "How long we keep it",
+      "b": true
+     }
+    ]
+   ],
+   "rows": [
+    [
+     [
+      {
+       "t": "Booking, payment and authorization records",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Up to 7 years after the booking, for tax, accounting and dispute purposes",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Customer support emails and call notes or recordings",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Up to 3 years",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Marketing contact details",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Until you opt out",
+       "b": true
+      }
+     ]
+    ],
+    [
+     [
+      {
+       "t": "Website and security logs",
+       "b": true
+      }
+     ],
+     [
+      {
+       "t": "Up to 24 months",
+       "b": true
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may keep information longer if the law requires it, or if it is needed for a dispute, claim or investigation. When we no longer need it, we delete it or make it anonymous."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "8-data-security",
+   "text": "8. Data Security"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We use reasonable administrative, technical and physical safeguards to protect your information, including encrypted connections (HTTPS), limited access to personal data and secure payment processing. No method of storage or transmission is completely secure, so we cannot guarantee absolute security. If a data breach affects your information, we will notify you and the authorities as required by law. Please contact us immediately if you think your information has been compromised."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "9-your-privacy-rights",
+   "text": "9. Your Privacy Rights"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "You can contact us at any time to:"
+    }
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    [
+     {
+      "t": "Access:",
+      "b": true
+     },
+     {
+      "t": " ask what personal information we hold about you and get a copy;"
+     }
+    ],
+    [
+     {
+      "t": "Correct:",
+      "b": true
+     },
+     {
+      "t": " fix information that is wrong or incomplete;"
+     }
+    ],
+    [
+     {
+      "t": "Delete:",
+      "b": true
+     },
+     {
+      "t": " ask us to delete your information, subject to records we must keep by law or for an active booking, a refund or a dispute;"
+     }
+    ],
+    [
+     {
+      "t": "Opt out:",
+      "b": true
+     },
+     {
+      "t": " stop marketing emails and texts by using the unsubscribe link or by replying STOP, and, where your state law gives you the right, opt out of targeted advertising, the sale or sharing of personal data, or certain profiling; and"
+     }
+    ],
+    [
+     {
+      "t": "Appeal:",
+      "b": true
+     },
+     {
+      "t": " if we decline your request, ask us to review that decision."
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Depending on where you live, you may have more rights under your state’s privacy law, such as those in Utah, California and other states, to the extent they apply to us. We will not treat you unfairly for using your rights."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "To make a request, email help@travionza.com or call 9999999999. We may need to verify your identity first, for example by matching details we hold. You may use an authorized agent, and we may ask for proof of their authority. We respond within the time the law requires, generally within 45 days, and we may extend it once if allowed by law."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "10-notice-for-california-residents",
+   "text": "10. Notice for California Residents"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "In the past 12 months we have collected these categories of personal information: identifiers and contact details, customer records, commercial information about your bookings, internet and device activity, and government-issued driver’s license details. The driver’s license details are sensitive personal information, and we use them only to complete your booking with the Supplier and to verify identity. We have not sold or shared personal information for cross-context behavioral advertising. California residents can use the rights in Section 9 by contacting us."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "11-marketing-messages",
+   "text": "11. Marketing Messages"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We send marketing emails or texts only where allowed by law and, where required, with your consent. You can opt out at any time by using the unsubscribe link or replying STOP. We will still send you messages about your booking, such as quotes, authorization requests, confirmations and refunds, which are not marketing."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "12-children",
+   "text": "12. Children"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Our services are for adults. We do not knowingly collect personal information from anyone under 18. If you believe a child has given us information, please contact us and we will delete it."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "13-third-party-links",
+   "text": "13. Third-Party Links"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Our website may link to other websites, including Supplier sites. We are not responsible for their content or privacy practices, and we encourage you to read their policies."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "14-where-your-information-is-processed",
+   "text": "14. Where Your Information Is Processed"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza is based in the United States, and your information is processed and stored in the United States. If you use our services from another country, you understand that your information will be transferred to and processed in the United States, where privacy laws may differ from those in your country."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "15-changes-to-this-policy",
+   "text": "15. Changes to This Policy"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "We may update this policy from time to time. We will post the new version on this page with a new effective date. If the changes are significant, we will let you know by email or by a notice on our website."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "16-contact-us",
+   "text": "16. Contact Us"
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "If you have questions or want to make a request about your information, contact:"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Travionza LLC"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Email: help@travionza.com"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Phone: 9999999999"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "inlines": [
+    {
+     "t": "Address: [Business address, Utah, USA]"
+    }
+   ]
+  }
+ ]
+}
