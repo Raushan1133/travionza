@@ -74,7 +74,7 @@ export function Footer() {
                 <Building2 className="mt-0.5 size-4 shrink-0 text-primary" /> {COMPANY_ADDRESS}
               </li>
               <li className="flex items-center gap-2">
-                <MapPin className="size-4 text-primary" /> Accross USA · 24/7 support
+                <MapPin className="size-4 text-primary" /> Across USA · 24/7 support
               </li>
             </ul>
           </div>
