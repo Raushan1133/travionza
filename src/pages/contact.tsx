@@ -1,5 +1,5 @@
 import * as React from "react"
-import { CircleCheck, Clock, Mail, Phone } from "lucide-react"
+import { CircleCheck, Clock, Mail, Phone,Building2 } from "lucide-react"
 
 import { Field } from "@/components/common/form-field"
 import { Container, PageHeader } from "@/components/common/page-header"
@@ -11,8 +11,7 @@ import { Textarea } from "@/components/ui/textarea"
 import { useAuth } from "@/context/auth-context"
 import { useSendContact } from "@/hooks/queries"
 import { useDocumentTitle } from "@/hooks/use-document-title"
-import { SUPPORT_EMAIL, SUPPORT_PHONE } from "@/lib/constants"
-
+import { COMPANY_ADDRESS, COMPANY_NAME, SUPPORT_EMAIL, SUPPORT_PHONE } from "@/lib/constants"
 const TOPICS = ["Change or cancel a booking", "Pick-up & return", "Payments & refunds", "Feedback", "Something else"]
 
 export default function ContactPage() {
@@ -119,6 +118,7 @@ export default function ContactPage() {
           {[
             { icon: Phone, title: "Call us", value: SUPPORT_PHONE, note: "24 hours, 7 days a week" },
             { icon: Mail, title: "Email", value: SUPPORT_EMAIL, note: "Replies within a few hours" },
+            { icon: Building2, title: "Our office", value: COMPANY_ADDRESS, note: COMPANY_NAME },
             { icon: Clock, title: "Pick-up desks", value: "Hours vary by branch", note: "Check your location page" },
           ].map((c) => (
             <div key={c.title} className="flex gap-4 rounded-2xl border bg-card p-5">

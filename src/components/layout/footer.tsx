@@ -1,10 +1,9 @@
-import { Mail, MapPin, Phone } from "lucide-react"
+import { Building2, Mail, MapPin, Phone } from "lucide-react"
 import { Link } from "react-router-dom"
 
 import { Logo } from "@/components/layout/logo"
 import { Separator } from "@/components/ui/separator"
-import { SUPPORT_EMAIL, SUPPORT_PHONE } from "@/lib/constants"
-
+import { COMPANY_ADDRESS, SUPPORT_EMAIL, SUPPORT_PHONE } from "@/lib/constants"
 const COLUMNS = [
   {
     title: "Explore",
@@ -24,7 +23,7 @@ const COLUMNS = [
       { to: "/about", label: "About Travionza" },
     ],
   },
-    {
+  {
     title: "Legal",
     links: [
       { to: "/legal/terms", label: "Terms & Conditions" },
@@ -71,8 +70,11 @@ export function Footer() {
               <li className="flex items-center gap-2">
                 <Mail className="size-4 text-primary" /> {SUPPORT_EMAIL}
               </li>
+              <li className="flex items-start gap-2">
+                <Building2 className="mt-0.5 size-4 shrink-0 text-primary" /> {COMPANY_ADDRESS}
+              </li>
               <li className="flex items-center gap-2">
-                <MapPin className="size-4 text-primary" /> 14 cities · 24/7 support
+                <MapPin className="size-4 text-primary" /> Accross USA · 24/7 support
               </li>
             </ul>
           </div>

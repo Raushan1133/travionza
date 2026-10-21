@@ -1,7 +1,9 @@
 export const APP_NAME = "Travionza"
 export const APP_TAGLINE = "Journeys, Perfectly Planned"
 export const SUPPORT_PHONE = "+1 (844) 555-0199"
-export const SUPPORT_EMAIL = "help@travionza.com"
+export const SUPPORT_EMAIL = "support@travionza.com"
+export const COMPANY_NAME = "Travionza LLC"
+export const COMPANY_ADDRESS = "7533 S Center View Ct, Ste 210, West Jordan, UT 84084"
 export const CURRENCY = "USD"
 export const LOCALE = "en-US"
 
